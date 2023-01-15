@@ -1,6 +1,6 @@
 #*********************************************************************************************************#                                                                                         #
 #     Name: Stephen Nwagwughiagwu                                                                         #  
-#     Description: A Board Class module manages the pieces of the checker game at the board level          #
+#     Description: A Board Class module manages the pieces of the checker game at the board level         #
 #******************************************************************************************************** #
 
 import math
