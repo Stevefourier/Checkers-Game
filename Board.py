@@ -1,7 +1,6 @@
-#*********************************************************************************************************#
-#     Final Exam                                                                                          #
-#     Name: Stephen Nwagwughiagwu 00743211                                                                #  
-#     Description:A Board Class module manages the pieces of the checker game at the board level          #
+#*********************************************************************************************************#                                                                                         #
+#     Name: Stephen Nwagwughiagwu                                                                         #  
+#     Description: A Board Class module manages the pieces of the checker game at the board level          #
 #******************************************************************************************************** #
 
 import math
