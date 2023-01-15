@@ -1,10 +1,8 @@
-#*********************************************************************************************************#
-#     Final Exam                                                                                          #
-#     Name: Stephen Nwagwughiagwu 00743211                                                                #  
+#*********************************************************************************************************#                                                                                      #                                                                #  
 #     Description:This class will be the main class that will manage the game and it utilizes the methods # 
 #     of the Board Class                                                                                  #
 #******************************************************************************************************** #
-#This Class captures the state of an individual piece and will be used by the Board Class to control 
+#This Piece Class captures the state of an individual piece and will be used by the Board Class to control 
 class Piece:
     def __init__(self): #Constructor for the piece class with the properties instantiated
         self.locRow = "" #Indicates Row Location
