@@ -1,7 +1,6 @@
 #*********************************************************************************************************#
-#     Final Exam                                                                                          #
 #     Name: Stephen Nwagwughiagwu 00743211                                                                #  
-#     Description:This class manages the game and it utilizes the methods of the Board Class              #                                                                                 #
+#     Description: This class manages the game and it utilizes the methods of the Board Class             #                                                                                 #
 #******************************************************************************************************** #
 from Board import Board #Importing the board class from the
 from copy import deepcopy
